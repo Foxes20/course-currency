@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body
+{
+    max-width:1200px;
+    width:90%;
+    margin:0 auto;
+   font-family: 'Open Sans', sans-serif;
+}
+
+/*.course-item-value.top {
+    color: red;
+    color:white;
+}*/
+
+.course-item-value.bottom {
+    background:  #0091FF;
+    color:white;
+}
+.course-item-value.center {
+    background:  lime;
+    color:white;
+}
+
+td{
+    background: #F2F2F2;
+}
